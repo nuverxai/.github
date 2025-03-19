@@ -2,7 +2,7 @@
 
 Welcome to the **NUVERXAI** Company Limited.
 
-$$\color{red} **NUVERXAI** \quad - \quad Innovation \ for **New \ Vertex** \ in \ **AI** \ and \ Digital \ Transformation$$
+$$\color{red} **NUVERXAI** \quad - \quad Innovation \ for \ **New \ Vertex** \ in \ **AI** \ and \ Digital \ Transformation$$
 
 At NUVERXAI Co., Ltd., we drive digital transformation and artificial intelligence (AI) innovation, delivering innovative and creative solutions through web and mobile applications. Our advanced technologies empower governments, businesses and individuals across diverse sectors, including Education Consulting, Immigration, Legal Services, Agriculture, and Financial Investment. We simplify complex challenges, enhance efficiency, and unlock new possibilities with cutting-edge products.
 
