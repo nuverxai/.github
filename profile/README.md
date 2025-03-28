@@ -16,6 +16,10 @@ Our Cutting-Edge technologies include:
 - **Deep Learning and Machine Learning** - Advanced analytics for predictive modeling and decision support.
 - **Chatbot Technology** - Smart, automated assistants for instant customer engagement.
 - **Data Analytics** - Harnessing data to uncover trends, optimize performance, and drive informed decisions.
+- **Edge AI** – Intelligent processing at the device level, enabling real-time decision-making without reliance on cloud connectivity, optimizing performance and reducing latency.
+- **Tiny AI** – Compact, efficient AI models designed for low energy and resource-constrained devices, delivering powerful insights and functionality with minimal computational overhead.
+- **IoT (Internet of Things)** – Interconnected systems that collect, analyze, and act on data from smart devices, creating seamless, responsive networks for enhanced automation and control.
+- **VR/AR (Virtual Reality/Augmented Reality)** – Immersive environments and overlays that blend digital and physical worlds, enhancing training, visualization, and interactive experiences with real-time adaptability.
 
 We develop specialized applications that leverage these technologies to meet industry-specific needs:
 
