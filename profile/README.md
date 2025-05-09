@@ -40,6 +40,6 @@ We develop specialized applications that leverage these technologies to meet ind
 We design and deploy web and mobile applications that seamlessly integrate into your workflows. From automating customer interactions with chatbots to providing data-driven insights with AI, our digital transformation solutions enable small and medium enterprises (SMEs) to operate smarter and scale efficiently.
 
 **Empowering Your Success:**
-With a focus on innovation, creation, and adaptability, we combine state-of-the-art technologies with deep industry knowledge to develop innovative and creative solutions. Whether you are seeking to optimize operations, engage customers, or make informed decisions, NUVERXAI Co., Ltd. is your partner in navigating the digital future.
+With a focus on innovation, creation, and adaptability, we combine state-of-the-art technologies with deep industry knowledge to develop innovative and creative solutions. Whether you are seeking to optimize operations, engage customers, or make informed decisions, NuverxAI Co., Ltd. is your partner in navigating the digital future.
 
 The research team is managed by Dr. Thanh Tung KHUAT ([Personal site](https://thanhtung09t2.wixsite.com/home) and [Google Scholar](https://scholar.google.com.au/citations?user=2UDpb4cAAAAJ)) who has more than 10 years of experience in researching and developing AI, machine learning algorithms and applications. The development team is managed by Kien LE who has more than 5 years of experience in software development and deployment.
